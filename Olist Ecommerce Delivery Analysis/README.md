@@ -1,4 +1,4 @@
-#** 🛒 🛍 How OLIST Marketplace Can Improve Delivery Estimation To Enhance Customers' Satisfaction ?  🛍 🛒 ** 
+# 🛒 🛍 How OLIST Marketplace Can Improve Delivery Estimation To Enhance Customers' Satisfaction ?  🛍 🛒
 
 ***👨🏼‍💻 Prepared by Duy Nghi & Karen, January 2021***
 
